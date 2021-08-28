@@ -73,7 +73,7 @@
     "@angular/compiler": "12.2.3",
     "@angular/compiler-cli": "12.2.3",
     "@angular/core": "12.2.3",
-    "@angular/dev-infra-private": "https://github.com/angular/dev-infra-private-builds.git#07a43c542704985a77ecabb4be12038e67419a65",
+    "@angular/dev-infra-private": "https://github.com/angular/dev-infra-private-builds.git#8913096e983611a895b3361d9a28a0abd26309af",
     "@angular/forms": "12.2.3",
     "@angular/localize": "12.2.3",
     "@angular/material": "12.2.3",
